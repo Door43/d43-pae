@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pae:home|Door43 (pae)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pae|d43-pae repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pae/archive/master.zip|d43-pae.zip]]
+
+**Recent Changes**
+{{changes>ns = pae}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pae|Ethnologue data]]
+
